@@ -1,0 +1,28 @@
+name: The Way Rider
+favicon: null
+layout_spectrum: 0.31808685744181275
+typography_spectrum: 0.1213036251720041
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.9843403084669262
+  lightness: 0.4892694989684969
+  saturation: 0.5891630577389151
+  rhythmicContrast: 0.6372064284514636
+purpose: []
